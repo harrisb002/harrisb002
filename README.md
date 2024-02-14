@@ -9,4 +9,4 @@ Skills and Experience
 
 - 🧩 I’m passionate about puzzles
   - Chess.com username: PuestaDelSol
-<img src="https://images.chesscomfiles.com/uploads/game-gifs/90px/sky/alpha/0/cc/0/0/bEJaSmNNMFNrQQ,,.gif" width="256" />
+<img src="https://images.chesscomfiles.com/uploads/game-gifs/90px/sky/alpha/0/cc/0/0/bUMwS2ZBOUliczVRZEU,.gif" width="256" />
