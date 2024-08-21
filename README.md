@@ -1,14 +1,14 @@
 ![GitHub Banner](https://github.com/harrisb002/harrisb002/blob/main/Banner.png)
 <img align="left" src="https://tenor.com/view/autumn-fall-seasons-gif-4709964.gif" width="21%" style="display:inline;"><img align="right" src="https://tenor.com/view/autumn-fall-seasons-gif-4709964.gif" width="21%" style="display:inline;">
 
-<h3 align="center">Software Engineer from the Trinity Alps 🌄.</h3>
+<h3 align="center">Software Engineer from the Trinity Alps 🌄</h3>
 
 <p align="center">Driven CS Student at SSU with a deep passion for backend development, commitmented to creating scalable, innovative solutions.</p>
 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/benjamin-harris-388151274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Brooke's LinkedIn" width="3%" /></a>
+<a href="https://www.linkedin.com/in/benjamin-harris-388151274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Brooke's LinkedIn" width="7%" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
