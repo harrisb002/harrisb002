@@ -35,11 +35,15 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Bash" width="15%" />
   </div>
 
-
-
 - 🧩 Also a chess enthusiast
   - Chess.com username: PuestaDelSol
   - Lichess username: BrisaAmable
 - The final of the 1997 match of Kasparov vs. Deep Blue (One of the Favs), I mean look at that Knight Sac‼️
 
 <img src="https://images.chesscomfiles.com/uploads/game-gifs/90px/sky/alpha/0/cc/0/0/bUNZUWxCWkpic0pDc0M1WkNNIVRmdDBTZ3YzVk1TNzBlZzFTdFU4N2NEWEhpeTZYZmVUSkR3NzZ5SFFIZHRYUVVMU0xlMDkwa0E,.gif" width="256" />
+
+
+![Contribution stats](https://github-readme-streak-stats.herokuapp.com/?user=harrisb002&theme=blue-green&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisb002&theme=blue-green&border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=CS_479,Land_Classification,GrainBoundaryDetection,CS_415&hide=html)
+
+
