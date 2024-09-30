@@ -44,6 +44,8 @@
 
 
 ![Contribution stats](https://github-readme-streak-stats.herokuapp.com/?user=harrisb002&theme=blue-green&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisb002&theme=blue-green&border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=CS_479,Land_Classification,GrainBoundaryDetection,CS_415&hide=html)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisb002&theme=blue-green&border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=CS_480,CS_415,CS_479,Land_Classification,CircuitTester&hide=html,jupyter%20notebook)
+
+
 
 
