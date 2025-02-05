@@ -3,8 +3,7 @@
 
 <h3 align="center">Software Engineer from the Trinity Alps 🌄</h3>
 
-<p align="center">Driven CS Student at SSU with a deep passion for backend development, committed to creating scalable, innovative solutions.</p>
-
+<p align="center">Driven CS graduate from SSU with a deep passion for backend development, committed to creating scalable, innovative solutions.</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
