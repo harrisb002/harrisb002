@@ -42,9 +42,11 @@
 <img src="https://images.chesscomfiles.com/uploads/game-gifs/90px/sky/alpha/0/cc/0/0/bUNZUWxCWkpic0pDc0M1WkNNIVRmdDBTZ3YzVk1TNzBlZzFTdFU4N2NEWEhpeTZYZmVUSkR3NzZ5SFFIZHRYUVVMU0xlMDkwa0E,.gif" width="256" />
 
 
-![Contribution stats](https://github-readme-streak-stats.herokuapp.com/?user=harrisb002&theme=blue-green&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisb002&theme=blue-green&border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=CS_480,CS_415,CS_479,Land_Classification,CircuitTester&hide=html,jupyter%20notebook)
 
+<!-- Stats card with TokyoNight theme -->
+![Contribution stats](https://github-readme-streak-stats.herokuapp.com/?user=harrisb002&theme=tokyonight&hide_border=false)
 
-
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=harrisb002&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&hide=stars"         height="150" alt="stats graph" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrisb002&theme=tokyonight&border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,jupyter%20notebook" height="150" alt="top languages graph" />
+</div>
